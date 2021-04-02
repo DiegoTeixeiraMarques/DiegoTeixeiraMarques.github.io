@@ -37,7 +37,9 @@
         <br>
         <p class="row border">Teste Bootstrap</p>
         
-        <h2><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h2>
+        <h2 class="text-uppercase text-secondary mb-0">{{ site.title | default: site.github.repository_name }}</h2>
+        
+        <!-- <h2><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h2> -->
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
