@@ -1,19 +1,16 @@
-title: <p align="center"> Diego Teixeira </p>
 logo: "/images/Portfolio_GithubIO.png"
+title: <p align="center">Diego Teixeira</p>
 description:
-
   <p align="center">
-  <a href="pdf/curriculo11-2020.pdf" target="_blank"><img src = "https://img.shields.io/badge/Curriculum-orange?Style=flat&logo=Adobe-Acrobat-Reader"></a> 
+  <a href="pdf/curriculo11-2020.pdf" target="_blank"><img src = "https://img.shields.io/badge/Curriculum-orange?Style=flat&logo=Adobe-Acrobat-Reader"></a>  
   <a href="https://www.linkedin.com/in/diegdtm/" target="_blank"><img src = "https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"></a>  
   <a href="https://github.com/DiegoTeixeiraMarques" target="_blank"><img src = "https://img.shields.io/badge/GitHub-black?Style=flat&logo=GitHub"></a>
   </p>
-  
   <p>
   Formado em Processos Gerencias, estudante de Sistemas de Informação e Pós Graduando em Ciência de Dados.
   <br><br>
   Construindo carreira na área de performance empresarial com conceitos de administração e computação moderna. Entusiasta por Data Science, programação e pela era disruptiva. 
   <br><br>
   </p> 
-   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
