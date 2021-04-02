@@ -1,4 +1,4 @@
-## Portfólio
+## <h2 class="text-uppercase text-secondary mb-0">Portfólio</h2>
 
 ---
 
